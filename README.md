@@ -27,4 +27,4 @@ from Udacity.
 
 ### Link to play:
 
-My basic version of the classic arcade game [**Frogger**](http://timmyhall.github.io/P3-frontend-nanodegree-arcade-game/).
+My basic version of the classic arcade game [**Frogger**](https://smallbonelu.github.io/arcade-game-master/index.html).
